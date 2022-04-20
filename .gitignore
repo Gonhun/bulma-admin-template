@@ -1,0 +1,14 @@
+# Files
+.DS_Store
+npm-debug.log
+
+# Folders
+.idea/
+node_modules
+
+# Hot
+hot
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
